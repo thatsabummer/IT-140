@@ -1,7 +1,7 @@
 # Author: Caleb Smith
 # Date: 08.29.2023
 
-# Get an interger from the user
+# Get an integer from the user
 user_num = int(input('Enter integer:\n'))
 
 # Display the int and do calculations for squared and cubed, then print the results
