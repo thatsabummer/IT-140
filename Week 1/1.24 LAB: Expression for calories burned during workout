@@ -1,3 +1,6 @@
+# Author: Caleb Smith
+# Date: O9.03.2023
+
 age = int(input())
 weight = int(input()) 
 heart_rate = int(input())
